@@ -1,0 +1,4 @@
+include ':app'
+include ':applier'
+include ':shared'
+include ':generator'
